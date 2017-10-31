@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/pet/adoptions'
+
+# Pet::Adoption::CLI.new.call
